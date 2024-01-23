@@ -116,7 +116,7 @@ select {
 
 .middle-0 {
 
-  background: url("./images/main-background.jpg");
+  background-image: url("../images/main-background.jpg");
   width: 100%;
   min-height: 100vh;
   background-size: cover;
@@ -661,31 +661,31 @@ select {
 }
 
 .hot-cars-block__car-0{
-  background-image: url(/images/hot-cars/Car-0.jpg);
+  background-image: url(../images/hot-cars/Car-0.jpg);
 }
 
 .hot-cars-block__car-1{
-  background-image: url(/images/hot-cars/Car-1.jpg);
+  background-image: url(../images/hot-cars/Car-1.jpg);
 }
 
 .hot-cars-block__car-2{
-  background-image: url(/images/hot-cars/Car-2.jpg);
+  background-image: url(../images/hot-cars/Car-2.jpg);
 }
 
 .hot-cars-block__car-3{
-  background-image: url(/images/hot-cars/Car-3.jpg);
+  background-image: url(../images/hot-cars/Car-3.jpg);
 }
 
 .hot-cars-block__car-4{
-  background-image: url(/images/hot-cars/Car-4.jpg);
+  background-image: url(../images/hot-cars/Car-4.jpg);
 }
 
 .hot-cars-block__car-5{
-  background-image: url(/images/hot-cars/Car-5.jpg);
+  background-image: url(../images/hot-cars/Car-5.jpg);
 }
 
 .hot-cars-block__car-6{
-  background-image: url(/images/hot-cars/Car-6.jpg);
+  background-image: url(../images/hot-cars/Car-6.jpg);
 }
 
 .hot-cars-block__info{
