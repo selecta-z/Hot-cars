@@ -638,7 +638,7 @@ select {
 
 
 .hot-cars-block__car{
-  background-image: url(/images/hot-cars/Car-0.jpg);
+  background-image: url(../images/hot-cars/Car-0.jpg);
   background-size: cover;
   /* object-fit: cover; */
   height: 250px;
